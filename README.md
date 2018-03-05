@@ -17,11 +17,11 @@ pip install matplotlib
 ```
 pip install textblob
 ```
-
+[setup.py](https://github.com/harunshimanto/Twitter-SentimentAnalysis/blob/master/setup.py)
 
 ### Usage
 
-Once you have created an app on twitter and installed all the dependencies , open main.py and paste your Consumer Key, Consumer Secret, Access Token and Access Token Secret. After that save and run the script. You will be prompted to enter the keyword/hashtag you want to analyze and the number of tweets you want to analyze. Once the analysis is completed, a pie chart will be generated disclosing the results of analysis.
+Once you have created an app on twitter and installed all the dependencies  by running __setup.py__, open main.py and paste your Consumer Key, Consumer Secret, Access Token and Access Token Secret. After that save and run the script. You will be prompted to enter the keyword/hashtag you want to analyze and the number of tweets you want to analyze. Once the analysis is completed, a pie chart will be generated disclosing the results of analysis.
 
 ## Built With
 
