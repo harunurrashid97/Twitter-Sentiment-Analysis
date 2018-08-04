@@ -1,7 +1,7 @@
 # Twitter-SentimentAnalysis
 This script can tell you the sentiments of people regarding to any events happening in the world by analyzing tweets related to that event 
 
-![Twitter-Sentiment-Analysis](https://github.com/harunshimanto/Twitter-Sentiment-Analysis/blob/master/twitter-sentiment-analysis.png)
+[Twitter-Sentiment-Analysis](twitter-sentiment-analysis.png)
 
 # Getting Started
 
