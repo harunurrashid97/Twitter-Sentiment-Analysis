@@ -39,7 +39,7 @@ Once you have created an app on twitter and installed all the dependencies  by r
 5. Submit a pull request
 
 ## Authors
-Shimanto Pi
+Harun Shimanto  
 
 ## License
 
